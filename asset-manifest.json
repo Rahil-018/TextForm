@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7BTextForm%7D/static/css/main.88404e20.css",
-    "main.js": "/%7BTextForm%7D/static/js/main.a3c01272.js",
-    "static/js/787.f6b89c4d.chunk.js": "/%7BTextForm%7D/static/js/787.f6b89c4d.chunk.js",
-    "index.html": "/%7BTextForm%7D/index.html",
-    "main.88404e20.css.map": "/%7BTextForm%7D/static/css/main.88404e20.css.map",
-    "main.a3c01272.js.map": "/%7BTextForm%7D/static/js/main.a3c01272.js.map",
-    "787.f6b89c4d.chunk.js.map": "/%7BTextForm%7D/static/js/787.f6b89c4d.chunk.js.map"
+    "main.css": "/TextForm/static/css/main.88404e20.css",
+    "main.js": "/TextForm/static/js/main.16bd071d.js",
+    "static/js/787.f6b89c4d.chunk.js": "/TextForm/static/js/787.f6b89c4d.chunk.js",
+    "index.html": "/TextForm/index.html",
+    "main.88404e20.css.map": "/TextForm/static/css/main.88404e20.css.map",
+    "main.16bd071d.js.map": "/TextForm/static/js/main.16bd071d.js.map",
+    "787.f6b89c4d.chunk.js.map": "/TextForm/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88404e20.css",
-    "static/js/main.a3c01272.js"
+    "static/js/main.16bd071d.js"
   ]
 }

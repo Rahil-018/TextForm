@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const Navigation = () => {
     return (
         <>
-            <nav className="nav  nav-pills nav-fill flex-column flex-md-row  bg-primary-subtle" >
+            <nav className="nav  nav-pills nav-fill flex-column flex-md-row " style={{ backgroundColor: '#000000' }} >
                 < Link className="flex-sm-fill text-sm-center nav-link active nav-link disabled" aria-current="page" >Raheel  </Link>
                 {/* Home */}
                 < Link className="flex-sm-fill text-sm-center nav-link" to="/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-house" viewBox="0 0 16 16">

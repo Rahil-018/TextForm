@@ -38,7 +38,7 @@ const Home = (props) => {
                 <div className="container " >
                     <h1 className='mb-4'>{props.heading}</h1>
                     <div className="mb-3">
-                        <textarea className="form-control" value={text} onChange={handleOnChange} rows="8" style={{ backgroundColor: '#6c6c7a', color:'white'}}></textarea>
+                        <textarea className="form-control" value={text} onChange={handleOnChange} rows="8" style={{ backgroundColor: 'white', color:'black'}}></textarea>
                     </div>
                     <button disabled={text.length === 0} className="btn btn-primary mx-4 my-2" onClick={uppercase}>Uppercase</button>
                     <button disabled={text.length === 0} className="btn btn-secondary mx-4 my-2" onClick={lowercase}>Lowercase</button>
